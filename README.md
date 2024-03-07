@@ -21,6 +21,6 @@ Este repositório contém as tarefas e projetos realizados durante o curso de .N
 
 ## Sobre
 
-Este repositório é parte do curso de .NET na Udemy, ministrado por [Nelio Alves](https://www.udemy.com/user/nelio-alves/).
+Este repositório é parte do curso de C# COMPLETO Programação Orientada a Objetos + Projetos na Udemy, ministrado por [Nelio Alves](https://www.udemy.com/user/nelio-alves/).
 
 Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato! 👍
