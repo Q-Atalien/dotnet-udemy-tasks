@@ -13,3 +13,17 @@ C:\Users\atauine\source\repos\Curso\Curso\obj\Debug\net6.0\refint\Curso.dll
 C:\Users\atauine\source\repos\Curso\Curso\obj\Debug\net6.0\Curso.pdb
 C:\Users\atauine\source\repos\Curso\Curso\obj\Debug\net6.0\Curso.genruntimeconfig.cache
 C:\Users\atauine\source\repos\Curso\Curso\obj\Debug\net6.0\ref\Curso.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\Curso.exe
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\Curso.deps.json
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\Curso.runtimeconfig.json
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\Curso.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\Curso.pdb
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\Curso.AssemblyInfoInputs.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\Curso.AssemblyInfo.cs
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\Curso.csproj.CoreCompileInputs.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\Curso.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\refint\Curso.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\Curso.pdb
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\Curso.genruntimeconfig.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\ref\Curso.dll
