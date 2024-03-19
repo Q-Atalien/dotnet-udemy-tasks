@@ -6,9 +6,9 @@ Este repositório contém as tarefas e projetos realizados durante o curso de .N
 
 ## Estrutura do Repositório
 
-- 📁 **Tarefa1**: Descrição da tarefa ou projeto 1.
-- 📁 **Tarefa2**: Descrição da tarefa ou projeto 2.
-- 📁 **Tarefa3**: Descrição da tarefa ou projeto 3.
+- 📁 **Tarefa1**: Descrição da tarefa e projeto 1.
+- 📁 **Tarefa2**: Descrição da tarefa e projeto 2.
+- 📁 **Tarefa3**: Descrição da tarefa e projeto 3.
 - ...
 
 ## Como Contribuir
