@@ -1,0 +1,14 @@
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.exe
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.deps.json
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.runtimeconfig.json
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.pdb
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfo.cs
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\refint\EntradaDeDados.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.pdb
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.genruntimeconfig.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\EntradaDeDados\obj\Debug\net6.0\ref\EntradaDeDados.dll

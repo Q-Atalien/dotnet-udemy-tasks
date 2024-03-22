@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jess\\Desktop\\tata\\dotnet-udemy-tasks\\Curso\\Curso.csproj",
-      "projectName": "Curso",
-      "projectPath": "C:\\Users\\jess\\Desktop\\tata\\dotnet-udemy-tasks\\Curso\\Curso.csproj",
+      "projectUniqueName": "C:\\Users\\jess\\Desktop\\tata\\dotnet-udemy-tasks\\Curso\\SaidaDeDados.csproj",
+      "projectName": "SaidaDeDados",
+      "projectPath": "C:\\Users\\jess\\Desktop\\tata\\dotnet-udemy-tasks\\Curso\\SaidaDeDados.csproj",
       "packagesPath": "C:\\Users\\jess\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jess\\Desktop\\tata\\dotnet-udemy-tasks\\Curso\\obj\\",
       "projectStyle": "PackageReference",

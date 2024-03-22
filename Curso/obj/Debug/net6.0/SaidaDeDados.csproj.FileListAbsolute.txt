@@ -1,0 +1,14 @@
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\SaidaDeDados.exe
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\SaidaDeDados.deps.json
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\SaidaDeDados.runtimeconfig.json
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\SaidaDeDados.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\bin\Debug\net6.0\SaidaDeDados.pdb
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\SaidaDeDados.AssemblyInfo.cs
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\SaidaDeDados.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\refint\SaidaDeDados.dll
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\SaidaDeDados.pdb
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\SaidaDeDados.genruntimeconfig.cache
+C:\Users\jess\Desktop\tata\dotnet-udemy-tasks\Curso\obj\Debug\net6.0\ref\SaidaDeDados.dll
